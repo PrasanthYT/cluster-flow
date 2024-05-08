@@ -7,7 +7,7 @@
 To install `clusterflow`, use npm:
 
 ```shell
-npm install clusterflow
+npm install cluster-flow
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install clusterflow
 To use `clusterflow` in your project, import it at the top of your script:
 
 ```javascript
-const ClusterFlow = require('clusterflow');
+const ClusterFlow = require('cluster-flow');
 ```
 
 ### Create an Instance of `ClusterFlow`
