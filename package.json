@@ -1,0 +1,28 @@
+{
+  "name": "cluster-flow",
+  "version": "1.0.0",
+  "description": "clusterflow is an npm library that simplifies the management of connections to multiple MongoDB clusters and provides an API for common operations such as querying data and inserting documents.",
+  "main": "src/lib/MultiClusterMongoDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasanthYT/cluster-flow.git"
+  },
+  "keywords": [
+    "Mongodb",
+    "Cluster",
+    "NPM"
+  ],
+  "author": "Prasanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrasanthYT/cluster-flow/issues"
+  },
+  "homepage": "https://github.com/PrasanthYT/cluster-flow#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
